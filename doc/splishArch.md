@@ -2,7 +2,7 @@
 
 面向对象的程序有两种结构：一种是静态的，一种是动态的（运行时的）。
 
-## Splishsplash 静态结构
+## 静态架构
 
 
 
@@ -17,7 +17,7 @@
 
 ​    
 
-![SoftwareArchitechture](E:/codes/taichi/ti-splish/pic/SoftwareArchitechture.jpg)
+![SoftwareArchitechture](./pic/SoftwareArchitechture.jpg)
 
 
 
@@ -25,7 +25,7 @@
 
 
 
-## Splishsplash 动态结构
+## 动态架构（运行时）
 
 ​    运行时结构需要一步步调试出控制流得到。现总结如下：
 
@@ -42,7 +42,7 @@
 
 活动图如下（如有错误，仅供参考）：
 
-![activityDiagram.drawio](E:/codes/taichi/ti-splish/pic/activityGraph.png)
+![activityDiagram.drawio](./pic/activityGraph.png)
 
 
 

@@ -22,7 +22,7 @@ taichi项目：https://github.com/taichi-dev/taichi
 
 
 
-splishsplash架构分析：[splishArch](./splishArch.md)
+splishsplash架构分析：[splishArch](./doc/splishArch.md)
 
 
 
